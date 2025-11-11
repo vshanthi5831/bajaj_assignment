@@ -1,7 +1,6 @@
 ## Overview
 
-This project demonstrates solving the **Qualifier 1** task using **Node.js** — without Spring Boot.
-It focuses on:
+The project focuses on:
 
 * Generating a **webhook** using the official API
 * Solving **SQL-based questions**
